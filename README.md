@@ -40,6 +40,7 @@ A modern Flutter e-commerce furniture app with a clean UI and multiple screens l
 
 ## 📁 Project Structure
 
+```bash
 task/                            # Root of your Flutter project
 ├── assets/                      # Images and icons used in the UI
 │   └── images/                  # Product images (chairs, etc.)
@@ -59,3 +60,4 @@ task/                            # Root of your Flutter project
 ├── screenshots/                 # App screenshots (for README)
 ├── pubspec.yaml                 # Dependencies and asset declarations
 └── README.md                    # Project documentation
+```
