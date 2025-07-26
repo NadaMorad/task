@@ -1,16 +1,16 @@
-# task
+# 🪑 Furniture App
 
-A new Flutter project.
+A modern Flutter e-commerce furniture app with a clean UI and multiple screens like Home, Likes, Cart, and Profile.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🏠 Home screen with product listings
+- ❤️ Likes screen to view favorite products
+- 🛒 Shopping Cart to manage selected items
+- 👤 User Profile screen
+- 💛 Add to cart and like functionalities
+- 🧭 Bottom Navigation Bar for screen switching
+- 🎨 Custom theme with smooth UI and rounded layouts
 
-A few resources to get you started if this is your first Flutter project:
+## 📁 Folder Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
