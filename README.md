@@ -41,23 +41,23 @@ A modern Flutter e-commerce furniture app with a clean UI and multiple screens l
 ## 📁 Project Structure
 
 ```bash
-task/                            # Root of your Flutter project
-├── assets/                      # Images and icons used in the UI
-│   └── images/                  # Product images (chairs, etc.)
+task/
+├── assets/
+│   └── images/
 ├── lib/
-│   ├── core/                    # AppTheme, colors, spacing, typography
-│   ├── data/                    # Product data (dummy or fetched)
-│   ├── models/                  # Data models like Product
-│   ├── pages/                   # All app screens
-│   │   ├── home_screen.dart     # Home screen (product list)
-│   │   ├── cart_screen.dart     # Cart screen
-│   │   ├── likes_screen.dart    # Favorites screen
-│   │   └── profile_screen.dart  # Profile screen
-│   ├── widgets/                 # Reusable components
-│   │   └── product_card.dart    # Product UI card with like/cart button
-│   ├── app_theme.dart           # Global theming
-│   └── main.dart                # App entry point, navigation + state
-├── screenshots/                 # App screenshots (for README)
-├── pubspec.yaml                 # Dependencies and asset declarations
-└── README.md                    # Project documentation
+│   ├── core/
+│   ├── data/
+│   ├── models/
+│   ├── pages/
+│   │   ├── home_screen.dart
+│   │   ├── cart_screen.dart
+│   │   ├── likes_screen.dart
+│   │   └── profile_screen.dart
+│   ├── widgets/
+│   │   └── product_card.dart
+│   ├── app_theme.dart
+│   └── main.dart
+├── screenshots/
+├── pubspec.yaml
+└── README.md
 ```
